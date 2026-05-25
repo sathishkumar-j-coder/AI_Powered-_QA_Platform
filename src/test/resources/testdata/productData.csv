@@ -1,0 +1,6 @@
+scenarioId,productName,sortOption,expectedFirstProduct
+add_remove_item,Sauce Labs Backpack,,
+sort_az,,Name (A to Z),Sauce Labs Backpack
+sort_za,,Name (Z to A),Test.allTheThings() T-Shirt (Red)
+sort_lohi,,Price (low to high),Sauce Labs Onesie
+sort_hilo,,Price (high to low),Sauce Labs Fleece Jacket

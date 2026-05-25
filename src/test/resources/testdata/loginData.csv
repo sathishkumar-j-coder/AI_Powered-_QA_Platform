@@ -1,0 +1,6 @@
+scenarioId,username,password,expectedError
+valid_login,standard_user,secret_sauce,
+invalid_login,invalid_user,secret_sauce,Epic sadface: Username and password do not match any user in this service
+empty_username,,secret_sauce,Epic sadface: Username is required
+empty_password,standard_user,,Epic sadface: Password is required
+locked_out_user,locked_out_user,secret_sauce,Epic sadface: Sorry, this user has been locked out.

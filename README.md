@@ -74,6 +74,7 @@ To run the application, you need to start both the backend and the frontend serv
 Once the app is running, click on the **Settings** (⚙️) icon in the header to configure:
 - **Jira Settings**: Domain, Project Key, Email, and API Token.
 - **AI Settings**: API Keys for OpenAI, Gemini, and Groq, or model names for Ollama.
+- **Database Settings**: MySQL defaults to `localhost:3307`, database `ai_mcp_demo`, user `root`. If your MySQL root user has a password, enter it in Settings or start the backend with `DB_PASSWORD=<password>`.
 
 ---
 Developed for QA teams to boost productivity and ensure high-quality test coverage.

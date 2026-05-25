@@ -1,0 +1,5 @@
+scenarioId,firstName,lastName,postalCode,expectedError
+valid_checkout,John,Doe,12345,
+empty_firstname,,Doe,12345,Error: First Name is required
+empty_lastname,John,,12345,Error: Last Name is required
+empty_postalcode,John,Doe,,Error: Postal Code is required
