@@ -1,4 +1,6 @@
-# QA Bot - AI-Powered Test Case Generator
+# AI_Powered-_QA_Platform
+
+AI Powered QA Platform - Test Case Generator, Automation Dashboard, CSV Data-Driven Testing, API Assistant, and Database Copilot
 
 QA Bot is a professional tool designed for QA Engineers to automate the generation of test cases from Jira tickets or requirement documents. It leverages advanced AI models (OpenAI, Gemini, Groq, and Ollama) to create comprehensive test suites, including positive, negative, and edge cases.
 
